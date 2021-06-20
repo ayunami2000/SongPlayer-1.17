@@ -2,7 +2,7 @@
 A Fabric mod for Minecraft that plays noteblocks by hhhzzzsss, ported to 1.17 by ayunami2000
 
 # What to download
-In the build/lib folder there's four jar files. The mod is the file called epic-songplayer-no-virus-pujav-2014.jar
+In the build/lib folder there's five jar files. The mod is the file called epic-songplayer-no-virus-pujav-2014.jar
 
 # Adding songs
 You can put midis in the .minecraft/songs folder
